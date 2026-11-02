@@ -1,0 +1,16 @@
+{
+  "name": "Skyline Apartments",
+  "location": "Downtown Austin, TX",
+  "price": "$450,000",
+  "property_type": "2-BHK Apartment",
+  "features": [
+    "Open-plan kitchen",
+    "Floor-to-ceiling windows",
+    "Smart home system",
+    "Rooftop terrace",
+    "24/7 concierge",
+    "Underground parking"
+  ],
+  "cta": "Schedule your private tour today!",
+  "contact": "Call 512-555-0199  |  skyline@example.com"
+}
